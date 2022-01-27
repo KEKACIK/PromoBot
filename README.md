@@ -11,7 +11,4 @@ PromoBot
 ## **Other**
     Docker
     PostgreSQL
----
----
----
 **BETA FILE**
