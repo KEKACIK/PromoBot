@@ -4,12 +4,14 @@ PromoBot
 ---
 Используемые технологии
 -----------------------------------
-	### **Python**
-#### aiogram
-#### Gino
-#### SQLAlchemy
-	### **Other**
-#### Docker
-#### PostgreSQL
-
+## **Python**
+    aiogram
+    Gino
+    SQLAlchemy
+## **Other**
+    Docker
+    PostgreSQL
+---
+---
+---
 **BETA FILE**
